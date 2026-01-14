@@ -66,7 +66,7 @@ const projects = [
     technologies: ["JavaScript (ES6+)", "TypeScript", "HTML / JSX", "CSS / TailwindCSS"],
     stars: null,
     forks: null,
-    githubUrl: "https://github.com/",
+    githubUrl: "https://github.com/ThalitaPereiraLA/portifolio-profissional",
     featured: false,
   },
 ];
