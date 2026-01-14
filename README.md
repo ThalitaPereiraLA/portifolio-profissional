@@ -1,4 +1,4 @@
-# 🌸 Thalita Pereira - Portfólio Profissional
+# Thalita Pereira - Portfólio Profissional
 
 Olá! Eu sou **Thalita Pereira**, desenvolvedora web apaixonada por criar experiências digitais que fazem a diferença. Este repositório reúne meus projetos, habilidades e contribuições em desenvolvimento web.
 
