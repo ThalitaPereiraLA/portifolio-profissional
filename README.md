@@ -56,15 +56,6 @@ Olá! Eu sou **Thalita Pereira**, desenvolvedora web apaixonada por criar experi
 
 ---
 
-## 📫 Contato
-
-- Email: **thalita.pereira@email.com**  
-- LinkedIn: [linkedin.com/in/thalitapereira](https://linkedin.com/in/thalitapereira)  
-- GitHub: [github.com/ThalitaPereiraLA](https://github.com/ThalitaPereiraLA)  
-- Instagram: [@thalitapereira](https://instagram.com/thalitapereira)
-
----
-
 ## ✨ Como executar este portfólio localmente
 
 ```bash
