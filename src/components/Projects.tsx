@@ -40,7 +40,7 @@ const projects = [
   {
     title: "Sistema de Otimização de Rede de Entregas",
     description:
-      "Contibuição na implementação um sistema de otimização para redes de entrega urbanas, modelando a infraestrutura logística como um grafo direcionado.",
+      "Contribuição na implementação um sistema de otimização para redes de entrega urbanas, modelando a infraestrutura logística como um grafo direcionado.",
     image: "/rota.jpg",
     technologies: ["FastAPI", "JavaScript", "pytest", "JWT", "OpenStreetMap"],
     stars: null,
