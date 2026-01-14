@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+# 🌸 Thalita Pereira - Portfólio Profissional
 
-## Project info
+Olá! Eu sou **Thalita Pereira**, desenvolvedora web apaixonada por criar experiências digitais que fazem a diferença. Este repositório reúne meus projetos, habilidades e contribuições em desenvolvimento web.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+---
 
-## How can I edit this code?
+## 🚀 Sobre mim
 
-There are several ways of editing your application.
+- 💻 Estudante de **Ciência da Computação**  
+- 🎨 Experiência com **Design Digital e Web Design**  
+- 🖥️ Desenvolvedora Frontend e Backend com **React, Vite, FastAPI e Tailwind CSS**  
+- ⚡ Foco em **interfaces modernas, responsivas e acessíveis**  
+- 📚 Sempre aprendendo e explorando novas tecnologias  
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠 Tecnologias e Skills
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** React, TypeScript, Tailwind CSS, shadcn-ui, Framer Motion  
+- **Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL  
+- **Ferramentas:** Git, VS Code, Power BI, Figma  
+- **Outros:** Pixel art, design de interfaces, integração de APIs  
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💼 Projetos Destacados
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### **Portfólio Profissional**
+- Site pessoal para apresentar projetos, habilidades e contato
+- Tecnologias: React, Vite, Tailwind CSS, TypeScript
+- Funcionalidades: Página inicial, perfil de usuário, páginas de projetos, contato
 
-Follow these steps:
+### **Guga e os Fragmentos da Alegria**
+- Jogo em pixel art desenvolvido em GameMaker
+- Estrutura de puzzles e batalha final com boss
+- Uso de algoritmos e estruturas de dados dentro do gameplay
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### **Dashboard de Gestão SEFAZ**
+- Dashboard moderno com análise em tempo real
+- Visualizações interativas para controle de convênios e contratos
+- Tecnologias: Power BI, SQL
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+> Para ver todos os projetos, visite o [site do meu portfólio](#) (link futuro)
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 📈 Estatísticas do GitHub
+
+> Meus projetos de código aberto e contribuições no GitHub:
+
+- Contribuições nos últimos 12 meses: `847+`  
+- Repositórios ativos: `X`  
+- Linhas de código adicionadas/removidas: `X`  
+
+> ⚠️ *Token de acesso ao GitHub mantido seguro via `.env`*
+
+---
+
+## 📫 Contato
+
+- Email: **thalita.pereira@email.com**  
+- LinkedIn: [linkedin.com/in/thalitapereira](https://linkedin.com/in/thalitapereira)  
+- GitHub: [github.com/ThalitaPereiraLA](https://github.com/ThalitaPereiraLA)  
+- Instagram: [@thalitapereira](https://instagram.com/thalitapereira)
+
+---
+
+## ✨ Como executar este portfólio localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/ThalitaPereiraLA/portifolio-profissional.git
+
+# Entre na pasta do projeto
+cd portifolio-profissional
+
+# Instale as dependências
+npm install
+
+# Rode o servidor de desenvolvimento
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
